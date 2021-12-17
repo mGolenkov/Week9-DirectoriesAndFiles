@@ -1,0 +1,16 @@
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.csproj.AssemblyReference.cache
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.AssemblyInfoInputs.cache
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.AssemblyInfo.cs
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.exe
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.deps.json
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.runtimeconfig.json
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.runtimeconfig.dev.json
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\ref\DirectoriesAndFiles.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.pdb
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\ref\DirectoriesAndFiles.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.pdb
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.genruntimeconfig.cache

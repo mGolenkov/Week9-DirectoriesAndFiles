@@ -1,0 +1,15 @@
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\WishList.exe
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\WishList.deps.json
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\WishList.runtimeconfig.json
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\WishList.runtimeconfig.dev.json
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\WishList.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\ref\WishList.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\bin\Debug\net5.0\WishList.pdb
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.AssemblyInfoInputs.cache
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.AssemblyInfo.cs
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.csproj.CoreCompileInputs.cache
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\ref\WishList.dll
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.pdb
+C:\Users\TECH TOOL V110\source\repos\DirectoriesAndFiles\WishList\obj\Debug\net5.0\WishList.genruntimeconfig.cache
